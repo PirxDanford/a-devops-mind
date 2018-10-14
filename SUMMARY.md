@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Contributing](contributing.md)
 * [Contents](contents.md)
+* [License](license.md)
 
 ## Contributors
 
