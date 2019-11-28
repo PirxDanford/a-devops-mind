@@ -16,3 +16,7 @@
 * [Making life easier for everyone](unsorted/making-life-easier-for-everyone.md)
 * [CALMS](unsorted/calms.md)
 
+## Postings
+
+* [“Hello, nice to meet you.”](postings/hello-nice-to-meet-you..md)
+
