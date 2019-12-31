@@ -1,4 +1,4 @@
-# “Hello, nice to meet you.”
+# Approaching Humans
 
 ![](../.gitbook/assets/hi.png)
 

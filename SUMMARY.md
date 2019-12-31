@@ -18,5 +18,6 @@
 
 ## Postings
 
-* [“Hello, nice to meet you.”](postings/hello-nice-to-meet-you..md)
+* [Approaching Humans](postings/hello-nice-to-meet-you..md)
+* [CALMS - A Holistic View Of Work](postings/calms-a-holistic-view-of-work.md)
 
