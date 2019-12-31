@@ -46,8 +46,6 @@ The natural enemy of sharing on the other hand is the [Intellectual Property](ht
 
 But this is the large scale, take a look on your own workplace. Maybe you could profit from sharing your knowledge and ideas? Do you really want to be a knowledge silo? Well I do not and the more the colleagues know of my duties the calmer I can sleep.
 
-![](../.gitbook/assets/calm.jpg)
-
 \*\*\*\*\*  
 So, looking at these five letters you might realize, that the topics included encompass every aspect of work. And this is my reason for dubbing it as holistic view. Do you disagree? Let me know about it and get in touch :-\)
 
